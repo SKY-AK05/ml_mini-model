@@ -1,0 +1,13 @@
+# Ignore local data
+data/
+*.npy
+*.pth
+
+# Ignore Conda/Python environments
+.conda/
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
